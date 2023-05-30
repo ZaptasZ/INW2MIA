@@ -1,0 +1,26 @@
+{
+    "produtos": [
+    {
+    "id": 1,
+    "descricao": "Colar",
+    "estoque": 10,
+    "valor": 10,
+    "imagem": "assets/colar.jpg"
+    },
+    {
+    "id": 2,
+    "descricao": "Brinco",
+    "estoque": 10,
+    "valor": 15,
+    "imagem" : "assets/brinco.jpg"
+    },
+    {
+    "id": 3,
+    "descricao": "pulseira",
+    "estoque": 10,
+    "valor": 5.25,
+    "imagem" : "assets/pulseira.jpg"
+    }
+    ]
+   }
+   

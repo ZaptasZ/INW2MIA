@@ -1,0 +1,14 @@
+.json{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.center2{
+    text-align: center;
+}
